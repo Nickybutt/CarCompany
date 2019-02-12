@@ -2,4 +2,8 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+/TheCarCompany/.vs/CarCompany/v15
+/TheCarCompany/Areas/Identity/Pages
+/TheCarCompany/bin/Debug/netcoreapp2.1
 /.vs/CarCompany/v15
+/.vs/config
